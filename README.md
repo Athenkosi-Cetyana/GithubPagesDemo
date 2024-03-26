@@ -2,4 +2,4 @@
 
 ## Hello Github Pages
 
-### Created by Thabo and Khaya
+### Created by Thabo Monamodi and Khaya Madlala
